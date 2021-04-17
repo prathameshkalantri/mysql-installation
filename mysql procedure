@@ -1,4 +1,4 @@
-# mysql-installationHow to install mysql in linux mint:
+How to install mysql in linux mint:
 use following steps:
 1:before installing , check if there are any mysql files or refference . if yes ,those needs to  be cleard.       
 use following command in terminal:
